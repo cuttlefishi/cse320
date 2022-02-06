@@ -15,11 +15,17 @@ The title is the first thing potential TAs/students will see
 - If you're having trouble summarizing the problem, **write the title last** - sometimes writing the rest of the question first can make it easier to describe the problem.
 
 **Examples:**
+
 > **Bad**: C Confusion
+
 > **Good**: Why does using float instead of int give me different results when all of my inputs are integers?
+
 > **Bad**: putty session doubt
+
 > **Good**: How can I open a new Putty session while having another open?
+
 > **Bad**: C if else problems
+
 > **Good**: Why do we have to set the last element in a string to a null terminator?
 
 ## Introduce the problem before you post any code
