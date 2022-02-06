@@ -42,8 +42,8 @@ Not all questions benefit from including code, but if your problem is with code 
 
 ## Post debugging information!
  
-It is very important that we know what you did while solving the problem. That would not only let us know that you actually tried to solve the problem, but also help in eliminating some approaches, in turn saving everyone’s time. 
- 
+It is very important that we know what you have done while solving the problem. That would not only let us know that you actually tried to solve the problem, but also help in finding the root causes, in turn saving everyone's time. 
+
 **Good debugging information might look like this:**
  
 - I tried to put print statements on line 10 and line 12, and my line 12 print statement isn’t getting executed. That would lead me to believe something on my line 11 is incorrect. 
